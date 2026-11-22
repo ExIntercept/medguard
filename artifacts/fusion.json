@@ -1,0 +1,21 @@
+{
+  "weights": {
+    "inj": 3.7918909641768743,
+    "inj_smooth_mean": 3.8428427365649602,
+    "inj_smooth_std": 0.28709214373035435,
+    "template_sim": 1.8014185577341704,
+    "obfuscation": 0.864908834570162,
+    "offscope": 1.7996816937628572,
+    "instr_regex": 1.609166272508243
+  },
+  "bias": -4.955775925131906,
+  "features": [
+    "inj",
+    "inj_smooth_mean",
+    "inj_smooth_std",
+    "template_sim",
+    "obfuscation",
+    "offscope",
+    "instr_regex"
+  ]
+}

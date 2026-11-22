@@ -1,0 +1,16 @@
+# Laptop: guardrails, orchestrator, UI (macOS M-series CPU/MPS works)
+torch>=2.3
+transformers>=4.50
+sentence-transformers>=3.0
+datasets>=2.20
+scikit-learn>=1.4
+numpy
+pillow
+requests
+gradio>=4.40
+# tests (spin up the model server locally with a fake model)
+pytest
+fastapi
+uvicorn
+httpx
+# GPU side is installed by the Colab notebook: unsloth fastapi uvicorn pyngrok

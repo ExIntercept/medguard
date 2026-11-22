@@ -1,0 +1,8 @@
+data/redteam_prefix.txt
+.env.sh
+.venv/
+__pycache__/
+.pytest_cache/
+artifacts/*.npz
+artifacts/fit_features.json
+.DS_Store
